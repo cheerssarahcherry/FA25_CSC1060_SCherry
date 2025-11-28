@@ -1,0 +1,8 @@
+1a would print "Hello Jon Smith"
+1b would loop 3 times
+1ba would print:
+0
+1
+2
+This is because println prints, and then moves to a new line
+
